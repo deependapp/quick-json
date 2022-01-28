@@ -1,0 +1,7 @@
+{
+	"bigtest"    :    [  {   }   ,    9,    "a",   [ ]  ,    true , false ],
+	"a" : 8439.24839e2 ,
+	"x": "wow big string",
+	"y": {},
+	"z": null
+}

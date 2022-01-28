@@ -1,0 +1,13 @@
+[package]
+name = "qj-derive"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+qj-derive-helpers = {path = "../derive-helpers"}
+proc-macro2 = "1.0.36"
+quote = "1.0.14"
+syn = "1.0.86"
